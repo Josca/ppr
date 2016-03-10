@@ -1,5 +1,5 @@
 # PPR
-* Easy create new _P_ython _PR_oject.
+* Easy create new *P*ython *PR*oject.
 
 ## Install
 * Standard pip installation, in folder with setup.py run:
@@ -7,10 +7,10 @@
 
 ## Usage
 * Create new Python project named HelloProject
-* ppr HelloProject
+    - ppr HelloProject
 * The command generates this folder structure:
-    - HelloProject
-        + HelloProject
+    - /HelloProject
+        + /HelloProject
             * __init__.py
             * hello.py
         + setup.py
